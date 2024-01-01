@@ -46,6 +46,9 @@
   padding: 0px 21px 0px 20px;
   position: absolute;
 }
+html {
+  scroll-behavior: smooth;
+}
 .box {
   display: grid;
   grid-template-columns: 1fr; /* 1列のみ指定 */
